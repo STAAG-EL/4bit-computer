@@ -1025,10 +1025,10 @@
 			(symbol "LED_0_1"
 				(polyline
 					(pts
-						(xy -1.7775 0.4129) (xy -3.4603 1.9369) (xy -3.2071 1.0489) (xy -3.4603 1.9369) (xy -2.5715 1.8421)
+						(xy -3.6375 1.9829) (xy -3.2565 1.2209) (xy -2.8755 1.6019) (xy -3.6375 1.9829)
 					)
 					(stroke
-						(width 0.254)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
@@ -1037,10 +1037,70 @@
 				)
 				(polyline
 					(pts
-						(xy -1.7775 -0.6987) (xy -3.4607 0.6673) (xy -3.2071 -0.2215) (xy -3.4607 0.6673) (xy -2.5715 0.5717)
+						(xy -3.6375 0.7129) (xy -3.2565 -0.0491) (xy -2.8755 0.3319) (xy -3.6375 0.7129)
 					)
 					(stroke
-						(width 0.254)
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.1295 0.4589) (xy -3.3835 0.2049)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.0025 1.6019) (xy -3.2565 1.3479) (xy -3.5105 1.8559) (xy -3.0025 1.6019)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.0025 0.3319) (xy -3.2565 0.0779) (xy -3.5105 0.5859) (xy -3.0025 0.3319)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.9865 0.3319) (xy -3.6375 1.9829)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.9865 -0.9381) (xy -3.6375 0.7129)
+					)
+					(stroke
+						(width 0.1524)
 						(type default)
 					)
 					(fill
@@ -1179,7 +1239,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "R"
-				(at 1.27 1.27 0)
+				(at 1.016 1.016 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
