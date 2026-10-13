@@ -623,7 +623,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "Doku\\BOM_Regensensor.csv",
     "bom_fmt_presets": [
@@ -886,7 +886,7 @@
         "uuid": "1a564276-6752-45b4-a33a-f4bcbe787514"
       }
     ],
-    "used_designators": "U1,#PWR7-14",
+    "used_designators": "D1,#PWR1-9,SW1,H1-5,R1-14,U1",
     "variants": []
   },
   "sheets": [
