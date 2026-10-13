@@ -5,7 +5,7 @@
 	(uuid "15cf6b97-a89e-4b40-8e90-bea8a2b0bc0e")
 	(paper "A4")
 	(title_block
-		(title "4bit Ripple Carry Adder")
+		(title "Arithmetic Logic Unit")
 		(date "2026-09-29")
 		(rev "V1.0 / R1")
 		(company "Abteilung ELIT")
