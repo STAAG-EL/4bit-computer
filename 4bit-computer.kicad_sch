@@ -34,7 +34,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "387adc13-9f78-49cb-9385-e5d888380c63")
-		(property "Sheetname" "ripple-carry-adder"
+		(property "Sheetname" "Arithmetic Logic Unit"
 			(at 203.2 37.3884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45,7 +45,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ripple-carry-adder.kicad_sch"
+		(property "Sheetfile" "alu.kicad_sch"
 			(at 203.2 64.0846 0)
 			(show_name no)
 			(do_not_autoplace no)
