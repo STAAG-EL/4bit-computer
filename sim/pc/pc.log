@@ -1,0 +1,20 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\fand\Documents\School\DIC-SDC\4bit-computer\sim\pc.net
+Start Time: Wed Oct 21 15:24:09 2026
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+Compress1stOrder = true
+Compress2ndOrder = true
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.186 seconds.
+
+Files loaded:
+C:\Users\fand\Documents\School\DIC-SDC\4bit-computer\sim\pc.net
+C:\Users\fand\AppData\Local\LTspice\lib\sub\NE555.sub
+
