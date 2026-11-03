@@ -903,7 +903,7 @@
         "uuid": "1a564276-6752-45b4-a33a-f4bcbe787514"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1,R18-21,#PWR13,D3,D5-7,H8-10",
     "variants": []
   },
   "sheets": [
