@@ -1193,22 +1193,28 @@
 		)
 	)
 	(junction
+		(at 139.7 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2136ddbf-c380-4dfa-925a-b0e2117dba15")
+	)
+	(junction
+		(at 69.85 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "25f17258-457e-49f8-b610-62448663d49f")
+	)
+	(junction
+		(at 139.7 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f87888d-5e2c-4a12-84e3-2df7cf816859")
+	)
+	(junction
 		(at 95.25 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "97430f63-f404-4dcc-b8dd-e9806c31cb02")
-	)
-	(junction
-		(at 76.2 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9d7a2fb5-856a-4ac9-8ecf-697bb8422238")
-	)
-	(junction
-		(at 127 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a80e661d-f870-403d-ac2d-699ea363aa5e")
 	)
 	(junction
 		(at 95.25 118.11)
@@ -1222,13 +1228,15 @@
 		(color 0 0 0 0)
 		(uuid "ae6b2705-5e3c-43f3-8e22-2633cc89f02b")
 	)
+	(junction
+		(at 120.65 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e192e3f5-31d9-4bd3-bc8d-83396dbf22a7")
+	)
 	(no_connect
 		(at 76.2 121.92)
 		(uuid "c0863e44-d99d-443d-b2f6-93779bb777bd")
-	)
-	(no_connect
-		(at 118.11 123.19)
-		(uuid "fceca96f-9749-4ee9-bdad-2a4a42ae1f1b")
 	)
 	(wire
 		(pts
@@ -1242,7 +1250,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 116.84) (xy 118.11 116.84)
+			(xy 152.4 116.84) (xy 139.7 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1262,17 +1270,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 93.98) (xy 127 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0bb7add8-15fb-43d1-b199-508c0afe0966")
-	)
-	(wire
-		(pts
-			(xy 76.2 127) (xy 76.2 129.54)
+			(xy 69.85 127) (xy 69.85 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1302,13 +1300,13 @@
 	)
 	(wire
 		(pts
-			(xy 127 99.06) (xy 127 96.52)
+			(xy 127 88.9) (xy 127 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3c86692f-eb49-44a5-aedb-ee16e163fd82")
+		(uuid "31ff2e01-8799-4cdc-80e7-705fe91ec8b4")
 	)
 	(wire
 		(pts
@@ -1319,6 +1317,16 @@
 			(type default)
 		)
 		(uuid "3e39edba-3590-4a4b-91dc-1cc0626da66f")
+	)
+	(wire
+		(pts
+			(xy 127 123.19) (xy 118.11 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "439d79ce-01f7-4654-998a-237dbda4df04")
 	)
 	(wire
 		(pts
@@ -1372,7 +1380,27 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 127) (xy 76.2 127)
+			(xy 118.11 116.84) (xy 139.7 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67e5a0e3-119f-421b-99ca-a8808ba65f7e")
+	)
+	(wire
+		(pts
+			(xy 139.7 138.43) (xy 139.7 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "689f6623-6bcc-4cb6-924c-da2f7459f079")
+	)
+	(wire
+		(pts
+			(xy 69.85 127) (xy 88.9 127)
 		)
 		(stroke
 			(width 0)
@@ -1392,13 +1420,33 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 113.03) (xy 127 113.03)
+			(xy 139.7 134.62) (xy 139.7 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f3759c5-ea5f-4512-9a14-594bef220436")
+	)
+	(wire
+		(pts
+			(xy 118.11 113.03) (xy 139.7 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "97fe1b38-c4cf-4544-9763-51f28f161d10")
+	)
+	(wire
+		(pts
+			(xy 120.65 86.36) (xy 120.65 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "983852db-9e26-4e01-936a-3afd61ca9847")
 	)
 	(wire
 		(pts
@@ -1412,7 +1460,27 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 142.24) (xy 95.25 142.24)
+			(xy 127 125.73) (xy 127 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ddd16a7-a4f7-4ab5-9a75-92e34fd9cd6b")
+	)
+	(wire
+		(pts
+			(xy 127 101.6) (xy 127 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a55be218-4e7c-4c79-b8a8-5531a6bf9f02")
+	)
+	(wire
+		(pts
+			(xy 69.85 142.24) (xy 95.25 142.24)
 		)
 		(stroke
 			(width 0)
@@ -1422,33 +1490,23 @@
 	)
 	(wire
 		(pts
-			(xy 127 96.52) (xy 120.65 96.52)
+			(xy 139.7 124.46) (xy 139.7 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b42c55af-da51-4283-ae61-b293df5bab3d")
+	)
+	(wire
+		(pts
+			(xy 120.65 88.9) (xy 127 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b980d074-9a47-4537-85c2-389641180353")
-	)
-	(wire
-		(pts
-			(xy 120.65 96.52) (xy 120.65 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9e0c105-cdd5-436c-8766-85d66632ad68")
-	)
-	(wire
-		(pts
-			(xy 76.2 127) (xy 88.9 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c70bc73b-1f9d-4948-aea8-c19325b70ea9")
 	)
 	(wire
 		(pts
@@ -1462,6 +1520,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 88.9) (xy 120.65 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcacb076-ef99-4fd2-92c6-274d5a8268b1")
+	)
+	(wire
+		(pts
 			(xy 95.25 118.11) (xy 95.25 120.65)
 		)
 		(stroke
@@ -1472,13 +1540,33 @@
 	)
 	(wire
 		(pts
-			(xy 127 109.22) (xy 127 113.03)
+			(xy 127 138.43) (xy 139.7 138.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e63fe770-0cea-4625-95f3-f205ee1d9724")
+		(uuid "e06241be-507b-4f40-b66a-a1e93aa04267")
+	)
+	(wire
+		(pts
+			(xy 127 135.89) (xy 127 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e160eb15-6dd3-4b78-afc8-d284eb4e0eb9")
+	)
+	(wire
+		(pts
+			(xy 139.7 86.36) (xy 139.7 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e338da7b-869d-48fd-9378-ed93a59fdb8d")
 	)
 	(wire
 		(pts
@@ -1492,7 +1580,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 139.7) (xy 76.2 142.24)
+			(xy 69.85 139.7) (xy 69.85 142.24)
 		)
 		(stroke
 			(width 0)
@@ -1532,7 +1620,7 @@
 	)
 	(global_label "NE555_out"
 		(shape output)
-		(at 127 116.84 0)
+		(at 152.4 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1542,7 +1630,7 @@
 		)
 		(uuid "3f60d05a-65ad-4821-a140-e0f27a3a4ac6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.0845 116.84 0)
+			(at 165.4845 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1566,7 +1654,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2466b827-eed4-4c86-96d8-8f8fcd8a4149")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR016"
 			(at 95.25 150.622 0)
 			(hide yes)
 			(show_name no)
@@ -1626,7 +1714,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
-					(reference "#PWR012")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -1634,7 +1722,7 @@
 	)
 	(symbol
 		(lib_id "basic_AndF:C")
-		(at 76.2 134.62 180)
+		(at 69.85 134.62 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1644,8 +1732,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b034f71-9855-487f-a85b-e2ae651bfc9c")
-		(property "Reference" "C2"
-			(at 78.74 133.3499 0)
+		(property "Reference" "C3"
+			(at 72.39 133.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1656,7 +1744,7 @@
 			)
 		)
 		(property "Value" "1µ"
-			(at 78.74 136.5249 0)
+			(at 72.39 136.5249 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1667,7 +1755,7 @@
 			)
 		)
 		(property "Footprint" "~footprint"
-			(at 76.2 121.92 0)
+			(at 69.85 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1678,7 +1766,7 @@
 			)
 		)
 		(property "Datasheet" "~datasheet"
-			(at 76.2 119.38 0)
+			(at 69.85 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1689,7 +1777,7 @@
 			)
 		)
 		(property "Description" "capacitor symbol"
-			(at 76.2 124.46 0)
+			(at 69.85 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1700,7 +1788,7 @@
 			)
 		)
 		(property "DISTRIBUTOR" "~Lieferant"
-			(at 76.2 116.84 0)
+			(at 69.85 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1711,7 +1799,7 @@
 			)
 		)
 		(property "ORDER_NO" "~Bestellnummer"
-			(at 76.2 114.3 0)
+			(at 69.85 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1722,7 +1810,7 @@
 			)
 		)
 		(property "MANUFACTURER" "~Hersteller"
-			(at 76.2 111.76 0)
+			(at 69.85 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1733,7 +1821,7 @@
 			)
 		)
 		(property "PART_NO" "~Herstellernummer"
-			(at 76.2 109.22 0)
+			(at 69.85 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1752,7 +1840,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
-					(reference "C2")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -1769,7 +1857,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "86397ca4-3997-4f8d-a19c-404eeb491dc0")
-		(property "Reference" "R17"
+		(property "Reference" "R21"
 			(at 80.01 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1880,15 +1968,15 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
-					(reference "R17")
+					(reference "R21")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "basic_AndF:C")
-		(at 127 104.14 180)
+		(lib_id "basic_AndF:GND")
+		(at 127 106.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1896,32 +1984,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8ec85255-8a72-4198-b426-af0cf0fd4e72")
-		(property "Reference" "C1"
-			(at 129.54 102.8699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.6764 1.6764)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10n"
-			(at 129.54 106.0449 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "~footprint"
-			(at 127 91.44 0)
+		(uuid "8d46eff5-e24e-4203-837d-d4a561d52e9e")
+		(property "Reference" "#PWR014"
+			(at 127 109.982 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1931,8 +1996,18 @@
 				)
 			)
 		)
-		(property "Datasheet" "~datasheet"
-			(at 127 88.9 0)
+		(property "Value" "GND"
+			(at 127 108.204 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1942,8 +2017,8 @@
 				)
 			)
 		)
-		(property "Description" "capacitor symbol"
-			(at 127 93.98 0)
+		(property "Datasheet" ""
+			(at 127 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1953,41 +2028,8 @@
 				)
 			)
 		)
-		(property "DISTRIBUTOR" "~Lieferant"
-			(at 127 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ORDER_NO" "~Bestellnummer"
-			(at 127 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MANUFACTURER" "~Hersteller"
-			(at 127 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PART_NO" "~Herstellernummer"
-			(at 127 78.74 0)
+		(property "Description" "ground symbol"
+			(at 127 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1998,15 +2040,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "f0eb9911-6e6f-4c0b-b054-2622fff12ab2")
-		)
-		(pin "2"
-			(uuid "367c28eb-3815-4f4c-b804-398dbb43d22f")
+			(uuid "18a79a50-aefd-4a83-9679-52c4053a59a0")
 		)
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
-					(reference "C1")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -2155,8 +2194,8 @@
 		)
 	)
 	(symbol
-		(lib_id "basic_AndF:+5V")
-		(at 127 93.98 0)
+		(lib_id "basic_AndF:GND")
+		(at 139.7 144.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2164,10 +2203,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a16ebf02-9a98-480e-8d09-0eea5d6274e7")
-		(property "Reference" "#PWR011"
-			(at 127 88.138 0)
+		(uuid "9d1c7061-3e45-4cbd-b39f-cc5f0ebf8075")
+		(property "Reference" "#PWR015"
+			(at 139.7 148.082 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2177,10 +2215,10 @@
 				)
 			)
 		)
-		(property "Value" "+5V"
-			(at 127 90.17 0)
+		(property "Value" "GND"
+			(at 139.7 146.304 0)
 			(show_name no)
-			(do_not_autoplace yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2188,7 +2226,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 93.98 0)
+			(at 139.7 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2199,7 +2237,210 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 93.98 0)
+			(at 139.7 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "ground symbol"
+			(at 139.7 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "215ef3e6-b40a-4380-a686-d78f334d3bbd")
+		)
+		(instances
+			(project "4bit-computer"
+				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "basic_AndF:C")
+		(at 127 96.52 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9ed61c88-8803-4f10-8088-f711426dcdad")
+		(property "Reference" "C1"
+			(at 129.54 95.2499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.6764 1.6764)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100n"
+			(at 129.54 97.79 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "~footprint"
+			(at 127 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~datasheet"
+			(at 127 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "capacitor symbol"
+			(at 127 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DISTRIBUTOR" "~Lieferant"
+			(at 127 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ORDER_NO" "~Bestellnummer"
+			(at 127 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "~Hersteller"
+			(at 127 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PART_NO" "~Herstellernummer"
+			(at 127 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "59aab9b2-a4f2-4f9a-a19d-dc00850dde43")
+		)
+		(pin "2"
+			(uuid "86b316f3-e3c5-4f92-9d4c-9efe8d7484ed")
+		)
+		(instances
+			(project "4bit-computer"
+				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "basic_AndF:+5V")
+		(at 120.65 86.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a16ebf02-9a98-480e-8d09-0eea5d6274e7")
+		(property "Reference" "#PWR012"
+			(at 120.65 80.518 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 120.65 82.55 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2210,7 +2451,7 @@
 			)
 		)
 		(property "Description" "power symbol"
-			(at 127 86.36 0)
+			(at 120.65 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2226,7 +2467,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
-					(reference "#PWR011")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -2244,7 +2485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5ebf082-3e24-4e23-a4a9-5459077e599a")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR011"
 			(at 76.2 77.978 0)
 			(hide yes)
 			(show_name no)
@@ -2304,7 +2545,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
-					(reference "#PWR010")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -2322,7 +2563,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b791f1de-4a25-4f66-8961-5780c9a14d9b")
-		(property "Reference" "R16"
+		(property "Reference" "R20"
 			(at 78.74 102.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2430,7 +2671,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
-					(reference "R16")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -2448,7 +2689,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce357d91-a610-494c-9af3-a405ff970705")
-		(property "Reference" "R15"
+		(property "Reference" "R19"
 			(at 78.74 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2556,7 +2797,336 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
-					(reference "R15")
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "basic_AndF:R")
+		(at 139.7 129.54 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ced84a1a-a48a-463a-a2e1-59afa9806c85")
+		(property "Reference" "R22"
+			(at 142.24 128.2699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.6764 1.6764)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 142.24 131.4449 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "~footprint"
+			(at 139.7 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "datasheet"
+			(at 139.7 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "resistor symbol"
+			(at 139.7 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DISTRIBUTOR" "~Lieferant"
+			(at 139.7 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ORDER_NO" "~Bestellnummer"
+			(at 139.7 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "~Hersteller"
+			(at 139.7 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PART_NO" "~Herstellernummer"
+			(at 139.7 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0e8e5ab5-4a09-4c42-a33a-8990e562cf5a")
+		)
+		(pin "1"
+			(uuid "bd1b179a-241f-4df3-a40e-01fea1dc254e")
+		)
+		(instances
+			(project "4bit-computer"
+				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "basic_AndF:C")
+		(at 127 130.81 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e47516b7-86a4-4fc9-84f5-99c20d3ea4e5")
+		(property "Reference" "C2"
+			(at 129.54 129.5399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.6764 1.6764)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100n"
+			(at 129.54 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "~footprint"
+			(at 127 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~datasheet"
+			(at 127 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "capacitor symbol"
+			(at 127 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DISTRIBUTOR" "~Lieferant"
+			(at 127 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ORDER_NO" "~Bestellnummer"
+			(at 127 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "~Hersteller"
+			(at 127 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PART_NO" "~Herstellernummer"
+			(at 127 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "45330f5d-46e6-4f28-b635-f2af854b1bf6")
+		)
+		(pin "2"
+			(uuid "90d7f874-07c8-47d2-b4d3-92edf1a26842")
+		)
+		(instances
+			(project "4bit-computer"
+				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "basic_AndF:+5V")
+		(at 139.7 86.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9d13de7-c1d3-428f-a8b7-6ce7b2c6447b")
+		(property "Reference" "#PWR013"
+			(at 139.7 80.518 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 139.7 82.55 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "power symbol"
+			(at 139.7 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d754be84-2318-45c9-8cd9-e2ac3a914456")
+		)
+		(instances
+			(project "4bit-computer"
+				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/429287a6-50e8-4fcb-8637-f3195f29008d"
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)

@@ -6264,7 +6264,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "184a2da2-313f-4ab8-b42f-e165d62c6519")
-		(property "Reference" "R7"
+		(property "Reference" "R11"
 			(at 47.752 108.712 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6378,7 +6378,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R7")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -6526,7 +6526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a5ee427-8b47-49f7-b125-a953601701e0")
-		(property "Reference" "R18"
+		(property "Reference" "R1"
 			(at 113.03 17.78 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6588,7 +6588,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R18")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -6606,7 +6606,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20906910-3957-4094-8c26-5d6978e703d8")
-		(property "Reference" "H7"
+		(property "Reference" "H1"
 			(at 126.6825 16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6679,7 +6679,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "H7")
+					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -6697,7 +6697,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b80b4e1-8d36-47ce-ba94-682769e1d820")
-		(property "Reference" "R1"
+		(property "Reference" "R5"
 			(at 222.885 109.8549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6811,7 +6811,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R1")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -6829,7 +6829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f3540b6-5cc7-45d5-9b5b-06405fe5e772")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 122.555 102.1648 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6927,7 +6927,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "D2")
+					(reference "D3")
 					(unit 2)
 				)
 			)
@@ -6945,7 +6945,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30988cca-61b3-44bc-aeeb-58ce1203e89e")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR05"
 			(at 201.295 127.127 0)
 			(hide yes)
 			(show_name no)
@@ -7011,7 +7011,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "#PWR03")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -7029,7 +7029,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bc93d59-e4e6-4c95-a10f-5eed01b450a2")
-		(property "Reference" "R14"
+		(property "Reference" "R18"
 			(at 91.44 179.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7137,7 +7137,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R14")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -7155,7 +7155,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "432abb0e-a5e4-4028-bdc0-3a54e4abb3f7")
-		(property "Reference" "H5"
+		(property "Reference" "H9"
 			(at 273.685 122.5549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7269,7 +7269,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "H5")
+					(reference "H9")
 					(unit 1)
 				)
 			)
@@ -7286,7 +7286,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4593252b-116c-4be2-9b7d-3c35de13beb8")
-		(property "Reference" "R8"
+		(property "Reference" "R12"
 			(at 51.308 108.712 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7400,7 +7400,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R8")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -7418,7 +7418,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b9d2755-6bf3-444a-962a-77fb321825e8")
-		(property "Reference" "D4"
+		(property "Reference" "D1"
 			(at 83.8117 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7516,7 +7516,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "D4")
+					(reference "D1")
 					(unit 2)
 				)
 			)
@@ -7533,7 +7533,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "590e46df-90c6-47a7-83ce-ebd223d2ab8e")
-		(property "Reference" "R6"
+		(property "Reference" "R10"
 			(at 44.196 108.712 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7647,7 +7647,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R6")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -7665,7 +7665,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c414e0c-d5fb-439d-9ecd-37627dafdb62")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR09"
 			(at 88.9 193.802 0)
 			(hide yes)
 			(show_name no)
@@ -7725,7 +7725,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "#PWR08")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -7743,7 +7743,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6120eda4-2701-48e7-8d2e-1dd94882c65d")
-		(property "Reference" "R5"
+		(property "Reference" "R9"
 			(at 273.685 109.8549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7857,7 +7857,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R5")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -7875,7 +7875,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61af46ab-669b-4696-abb6-4c52e4ab2724")
-		(property "Reference" "D4"
+		(property "Reference" "D1"
 			(at 83.8117 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7929,51 +7929,51 @@
 			)
 		)
 		(pin "4"
-			(uuid "d055bc24-8a1f-4d4a-8478-af0b2b4588e4")
+			(uuid "d055bc24-8a1f-4d4a-8478-af0b2b4588e5")
 		)
 		(pin "6"
-			(uuid "bae7c5e1-0abc-41a5-8e7e-e139882ca6c5")
+			(uuid "bae7c5e1-0abc-41a5-8e7e-e139882ca6c6")
 		)
 		(pin "14"
-			(uuid "baf8fdac-7192-432d-9643-be3ac24a8cde")
+			(uuid "baf8fdac-7192-432d-9643-be3ac24a8cdf")
 		)
 		(pin "3"
-			(uuid "797010dd-b9c1-4c22-8cf9-7daf76cdeb44")
+			(uuid "797010dd-b9c1-4c22-8cf9-7daf76cdeb45")
 		)
 		(pin "2"
-			(uuid "379a47c2-825f-4e00-8c2d-a9fd09edfc93")
+			(uuid "379a47c2-825f-4e00-8c2d-a9fd09edfc94")
 		)
 		(pin "13"
-			(uuid "965439bd-0d99-4080-816d-0acdb2c17eb5")
+			(uuid "965439bd-0d99-4080-816d-0acdb2c17eb6")
 		)
 		(pin "10"
-			(uuid "78dd9868-d77e-4354-a607-d735cff8c307")
+			(uuid "78dd9868-d77e-4354-a607-d735cff8c308")
 		)
 		(pin "7"
-			(uuid "409b9ec5-4978-4c01-b84c-974cafb1adea")
+			(uuid "409b9ec5-4978-4c01-b84c-974cafb1adeb")
 		)
 		(pin "9"
-			(uuid "bc3fa138-1885-4ae2-9d62-7b5e58f38855")
+			(uuid "bc3fa138-1885-4ae2-9d62-7b5e58f38856")
 		)
 		(pin "5"
-			(uuid "565f1e54-1b96-4939-8d95-9fdf139b1bc9")
+			(uuid "565f1e54-1b96-4939-8d95-9fdf139b1bca")
 		)
 		(pin "12"
-			(uuid "0a2bebc5-43a5-435e-bca3-e106d093f1f4")
+			(uuid "0a2bebc5-43a5-435e-bca3-e106d093f1f5")
 		)
 		(pin "11"
-			(uuid "9d26d25e-3bde-4fb9-bf45-071f12a2a0ae")
+			(uuid "9d26d25e-3bde-4fb9-bf45-071f12a2a0af")
 		)
 		(pin "1"
-			(uuid "1ffadc1b-e17f-4646-bc09-e06c3b517140")
+			(uuid "1ffadc1b-e17f-4646-bc09-e06c3b517141")
 		)
 		(pin "8"
-			(uuid "94fa569f-190d-4c6b-8e6e-10b528a8bc09")
+			(uuid "94fa569f-190d-4c6b-8e6e-10b528a8bc0a")
 		)
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "D4")
+					(reference "D1")
 					(unit 4)
 				)
 			)
@@ -7990,7 +7990,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "64531fe1-dd9e-45b0-a7dd-5ba3714063f1")
-		(property "Reference" "R12"
+		(property "Reference" "R16"
 			(at 69.342 108.839 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8104,7 +8104,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R12")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -8122,7 +8122,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64b90a79-3710-43ff-b683-8336c2b7ee9b")
-		(property "Reference" "H2"
+		(property "Reference" "H6"
 			(at 235.585 122.5549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8236,7 +8236,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "H2")
+					(reference "H6")
 					(unit 1)
 				)
 			)
@@ -8254,7 +8254,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6afeb9ce-0173-4f16-8f90-b97b9f9def43")
-		(property "Reference" "R2"
+		(property "Reference" "R6"
 			(at 235.585 109.8549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8368,7 +8368,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R2")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -8386,7 +8386,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71e5382a-3600-4c3c-9f9c-b72fa2a5cc11")
-		(property "Reference" "D4"
+		(property "Reference" "D1"
 			(at 83.8117 15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8440,51 +8440,51 @@
 			)
 		)
 		(pin "4"
-			(uuid "d055bc24-8a1f-4d4a-8478-af0b2b4588e4")
+			(uuid "d055bc24-8a1f-4d4a-8478-af0b2b4588e6")
 		)
 		(pin "6"
-			(uuid "bae7c5e1-0abc-41a5-8e7e-e139882ca6c5")
+			(uuid "bae7c5e1-0abc-41a5-8e7e-e139882ca6c7")
 		)
 		(pin "14"
-			(uuid "baf8fdac-7192-432d-9643-be3ac24a8cde")
+			(uuid "baf8fdac-7192-432d-9643-be3ac24a8ce0")
 		)
 		(pin "3"
-			(uuid "797010dd-b9c1-4c22-8cf9-7daf76cdeb44")
+			(uuid "797010dd-b9c1-4c22-8cf9-7daf76cdeb46")
 		)
 		(pin "2"
-			(uuid "379a47c2-825f-4e00-8c2d-a9fd09edfc93")
+			(uuid "379a47c2-825f-4e00-8c2d-a9fd09edfc95")
 		)
 		(pin "13"
-			(uuid "965439bd-0d99-4080-816d-0acdb2c17eb5")
+			(uuid "965439bd-0d99-4080-816d-0acdb2c17eb7")
 		)
 		(pin "10"
-			(uuid "78dd9868-d77e-4354-a607-d735cff8c307")
+			(uuid "78dd9868-d77e-4354-a607-d735cff8c309")
 		)
 		(pin "7"
-			(uuid "409b9ec5-4978-4c01-b84c-974cafb1adea")
+			(uuid "409b9ec5-4978-4c01-b84c-974cafb1adec")
 		)
 		(pin "9"
-			(uuid "bc3fa138-1885-4ae2-9d62-7b5e58f38855")
+			(uuid "bc3fa138-1885-4ae2-9d62-7b5e58f38857")
 		)
 		(pin "5"
-			(uuid "565f1e54-1b96-4939-8d95-9fdf139b1bc9")
+			(uuid "565f1e54-1b96-4939-8d95-9fdf139b1bcb")
 		)
 		(pin "12"
-			(uuid "0a2bebc5-43a5-435e-bca3-e106d093f1f4")
+			(uuid "0a2bebc5-43a5-435e-bca3-e106d093f1f6")
 		)
 		(pin "11"
-			(uuid "9d26d25e-3bde-4fb9-bf45-071f12a2a0ae")
+			(uuid "9d26d25e-3bde-4fb9-bf45-071f12a2a0b0")
 		)
 		(pin "1"
-			(uuid "1ffadc1b-e17f-4646-bc09-e06c3b517140")
+			(uuid "1ffadc1b-e17f-4646-bc09-e06c3b517142")
 		)
 		(pin "8"
-			(uuid "94fa569f-190d-4c6b-8e6e-10b528a8bc09")
+			(uuid "94fa569f-190d-4c6b-8e6e-10b528a8bc0b")
 		)
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "D4")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -8502,7 +8502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7810a087-ed0a-4c00-88a4-78027caa7a7f")
-		(property "Reference" "H3"
+		(property "Reference" "H7"
 			(at 248.285 122.5549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8616,7 +8616,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "H3")
+					(reference "H7")
 					(unit 1)
 				)
 			)
@@ -8634,7 +8634,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78b51d9f-7166-46d2-9502-d94e52c9af77")
-		(property "Reference" "R19"
+		(property "Reference" "R2"
 			(at 113.03 32.385 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8696,7 +8696,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R19")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -8714,7 +8714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8075f61d-9291-49e4-a409-c21a3084ff6f")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR08"
 			(at 88.9 151.638 0)
 			(hide yes)
 			(show_name no)
@@ -8774,7 +8774,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "#PWR07")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -8876,7 +8876,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8df7ee4e-dde5-4d0c-af07-7f3d5478fdcc")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR07"
 			(at 164.465 155.067 0)
 			(hide yes)
 			(show_name no)
@@ -8936,7 +8936,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "#PWR06")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -8954,7 +8954,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ee24283-01b1-4c9f-9002-b8ae7a7df3fb")
-		(property "Reference" "R3"
+		(property "Reference" "R7"
 			(at 248.285 109.8549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9068,7 +9068,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R3")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -9085,7 +9085,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "906ef52c-c70f-45cd-ae3c-660a636aa19b")
-		(property "Reference" "R13"
+		(property "Reference" "R17"
 			(at 74.93 108.839 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9199,7 +9199,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R13")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -9217,7 +9217,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9557345e-b839-4e42-9159-b600b2bd43bc")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 97.155 89.4648 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9315,7 +9315,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -9333,7 +9333,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bf98abc-148e-4b47-8566-f36bc3c8c0d5")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR06"
 			(at 271.145 139.827 0)
 			(hide yes)
 			(show_name no)
@@ -9399,7 +9399,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "#PWR05")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -9417,7 +9417,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a957730b-4eaa-46f0-8ad9-b7a051f493c5")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 206.375 58.42 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -9527,7 +9527,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -9544,7 +9544,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ac20bb65-343d-432c-8b81-ea19f79dfbb4")
-		(property "Reference" "R9"
+		(property "Reference" "R13"
 			(at 54.864 108.712 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9658,7 +9658,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R9")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -9675,7 +9675,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b2ae0db9-c7fc-40ba-b176-fc4ad3ddda5d")
-		(property "Reference" "R11"
+		(property "Reference" "R15"
 			(at 63.5 108.839 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9789,7 +9789,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R11")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -9807,7 +9807,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6e3c2be-e006-4eab-8d6a-9574f602c2b7")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 173.355 127.5648 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9905,7 +9905,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "D2")
+					(reference "D3")
 					(unit 4)
 				)
 			)
@@ -10007,7 +10007,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c15a139a-b98f-4bc5-a5f1-b8eb24b64e9d")
-		(property "Reference" "R21"
+		(property "Reference" "R4"
 			(at 113.03 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10069,7 +10069,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R21")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -10087,7 +10087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4c0f1b1-fcdd-4e42-8cdf-59041e20d282")
-		(property "Reference" "H8"
+		(property "Reference" "H2"
 			(at 126.6825 31.115 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10160,7 +10160,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "H8")
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -10178,7 +10178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6f9c273-ce41-4a9d-8ff5-67b2ed4ece99")
-		(property "Reference" "H4"
+		(property "Reference" "H8"
 			(at 260.985 122.5549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10292,7 +10292,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "H4")
+					(reference "H8")
 					(unit 1)
 				)
 			)
@@ -10310,7 +10310,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbc5468b-60ac-4094-ae58-236d552ad10e")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR02"
 			(at 137.6362 71.9146 0)
 			(hide yes)
 			(show_name no)
@@ -10370,7 +10370,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "#PWR013")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -10387,7 +10387,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d7851410-aecd-4db9-9f1e-dd8bceda2339")
-		(property "Reference" "R10"
+		(property "Reference" "R14"
 			(at 58.42 108.712 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10501,7 +10501,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R10")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -10519,7 +10519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da9b73a4-85af-4d51-89e0-ad3cf422a2f0")
-		(property "Reference" "H1"
+		(property "Reference" "H5"
 			(at 222.885 122.5549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10633,7 +10633,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "H1")
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -10651,7 +10651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbcae927-5972-41ed-893e-91c1e1b48ea2")
-		(property "Reference" "R4"
+		(property "Reference" "R8"
 			(at 260.985 109.8549 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10765,7 +10765,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R4")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -10783,7 +10783,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1f13642-43c9-4f4e-aaba-fbd580f0e3bf")
-		(property "Reference" "H6"
+		(property "Reference" "H10"
 			(at 91.44 166.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10891,7 +10891,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "H6")
+					(reference "H10")
 					(unit 1)
 				)
 			)
@@ -10909,7 +10909,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4eaa75b-7b68-4ed3-870d-d7ce2c95f269")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR03"
 			(at 88.265 74.803 0)
 			(hide yes)
 			(show_name no)
@@ -10969,7 +10969,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "#PWR02")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -10987,7 +10987,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6318b01-de25-4df8-9ba5-31181346c16b")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 147.955 114.8648 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11085,7 +11085,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "D2")
+					(reference "D3")
 					(unit 3)
 				)
 			)
@@ -11103,7 +11103,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee8f30cd-9d6d-4df2-bc45-63767194931e")
-		(property "Reference" "R20"
+		(property "Reference" "R3"
 			(at 113.03 46.355 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11165,7 +11165,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "R20")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -11183,7 +11183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2efcb56-3f57-4170-9b43-13e8e6dc612d")
-		(property "Reference" "H10"
+		(property "Reference" "H4"
 			(at 126.6825 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11256,7 +11256,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "H10")
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -11274,7 +11274,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4edd156-694b-497e-bed6-caac28dbbbea")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR010"
 			(at 35.56 195.072 0)
 			(hide yes)
 			(show_name no)
@@ -11340,7 +11340,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "#PWR09")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -11358,7 +11358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f63022a7-6a0d-498b-8d48-e2bc9ff3ad1b")
-		(property "Reference" "H9"
+		(property "Reference" "H3"
 			(at 126.6825 45.085 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11431,7 +11431,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "H9")
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -11448,7 +11448,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f6c5b074-0fae-43a1-b57b-e94e09d6b62a")
-		(property "Reference" "D4"
+		(property "Reference" "D1"
 			(at 83.82 43.815 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11502,51 +11502,51 @@
 			)
 		)
 		(pin "4"
-			(uuid "d055bc24-8a1f-4d4a-8478-af0b2b4588e4")
+			(uuid "d055bc24-8a1f-4d4a-8478-af0b2b4588e7")
 		)
 		(pin "6"
-			(uuid "bae7c5e1-0abc-41a5-8e7e-e139882ca6c5")
+			(uuid "bae7c5e1-0abc-41a5-8e7e-e139882ca6c8")
 		)
 		(pin "14"
-			(uuid "baf8fdac-7192-432d-9643-be3ac24a8cde")
+			(uuid "baf8fdac-7192-432d-9643-be3ac24a8ce1")
 		)
 		(pin "3"
-			(uuid "797010dd-b9c1-4c22-8cf9-7daf76cdeb44")
+			(uuid "797010dd-b9c1-4c22-8cf9-7daf76cdeb47")
 		)
 		(pin "2"
-			(uuid "379a47c2-825f-4e00-8c2d-a9fd09edfc93")
+			(uuid "379a47c2-825f-4e00-8c2d-a9fd09edfc96")
 		)
 		(pin "13"
-			(uuid "965439bd-0d99-4080-816d-0acdb2c17eb5")
+			(uuid "965439bd-0d99-4080-816d-0acdb2c17eb8")
 		)
 		(pin "10"
-			(uuid "78dd9868-d77e-4354-a607-d735cff8c307")
+			(uuid "78dd9868-d77e-4354-a607-d735cff8c30a")
 		)
 		(pin "7"
-			(uuid "409b9ec5-4978-4c01-b84c-974cafb1adea")
+			(uuid "409b9ec5-4978-4c01-b84c-974cafb1aded")
 		)
 		(pin "9"
-			(uuid "bc3fa138-1885-4ae2-9d62-7b5e58f38855")
+			(uuid "bc3fa138-1885-4ae2-9d62-7b5e58f38858")
 		)
 		(pin "5"
-			(uuid "565f1e54-1b96-4939-8d95-9fdf139b1bc9")
+			(uuid "565f1e54-1b96-4939-8d95-9fdf139b1bcc")
 		)
 		(pin "12"
-			(uuid "0a2bebc5-43a5-435e-bca3-e106d093f1f4")
+			(uuid "0a2bebc5-43a5-435e-bca3-e106d093f1f7")
 		)
 		(pin "11"
-			(uuid "9d26d25e-3bde-4fb9-bf45-071f12a2a0ae")
+			(uuid "9d26d25e-3bde-4fb9-bf45-071f12a2a0b1")
 		)
 		(pin "1"
-			(uuid "1ffadc1b-e17f-4646-bc09-e06c3b517140")
+			(uuid "1ffadc1b-e17f-4646-bc09-e06c3b517143")
 		)
 		(pin "8"
-			(uuid "94fa569f-190d-4c6b-8e6e-10b528a8bc09")
+			(uuid "94fa569f-190d-4c6b-8e6e-10b528a8bc0c")
 		)
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "D4")
+					(reference "D1")
 					(unit 3)
 				)
 			)
