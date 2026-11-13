@@ -6322,6 +6322,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at 177.8 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 177.8 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 177.8 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "f54c6625-21cb-460a-ad84-794943506acf")
 		)
@@ -6483,6 +6516,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at -46.99 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -46.99 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -46.99 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f7454a16-6d64-4717-a9f4-3ad9f33733bc")
 		)
@@ -6562,6 +6628,39 @@
 		)
 		(property "Description" "8x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
 			(at -41.91 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at -41.91 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -41.91 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -41.91 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6777,6 +6876,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at -63.5 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -63.5 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -63.5 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "41d04b72-5197-4ecf-b6bb-d730480ae2fc")
 		)
@@ -6850,6 +6982,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 83.82 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at 83.82 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 83.82 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 83.82 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7106,6 +7271,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at -12.7 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -12.7 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -12.7 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eaf19113-236f-4c70-86af-48eaabfb093d")
 		)
@@ -7223,6 +7421,39 @@
 		)
 		(property "PART_NO" "~Herstellernummer"
 			(at 274.32 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at 274.32 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 274.32 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 274.32 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7363,6 +7594,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at -44.45 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -44.45 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -44.45 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f4a6a16e-6d8c-4994-8a46-305efad49d79")
 		)
@@ -7485,6 +7749,39 @@
 		)
 		(property "PART_NO" "~Herstellernummer"
 			(at -49.53 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at -49.53 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -49.53 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -49.53 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7704,6 +8001,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at 274.32 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 274.32 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 274.32 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "24b52dd5-7d81-45cf-b0dc-6ad19d1530a0")
 		)
@@ -7826,6 +8156,39 @@
 		)
 		(property "PART_NO" "~Herstellernummer"
 			(at -34.29 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at -34.29 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -34.29 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -34.29 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7967,6 +8330,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at 236.22 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 236.22 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 236.22 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "241a6f19-9ca9-44ce-8cef-3b33f44539aa")
 		)
@@ -8053,47 +8449,80 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at 177.8 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 177.8 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 177.8 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
-			(uuid "f54c6625-21cb-460a-ad84-794943506acf")
+			(uuid "f54c6625-21cb-460a-ad84-794943506ad0")
 		)
 		(pin "10"
-			(uuid "d6cf1c8c-d3a2-468c-9732-cc40dc3f82db")
+			(uuid "d6cf1c8c-d3a2-468c-9732-cc40dc3f82dc")
 		)
 		(pin "3"
-			(uuid "fde33dc0-7801-473d-8814-d18674e5e2d4")
+			(uuid "fde33dc0-7801-473d-8814-d18674e5e2d5")
 		)
 		(pin "11"
-			(uuid "a6197b63-2b36-4050-a123-b9f5532af982")
+			(uuid "a6197b63-2b36-4050-a123-b9f5532af983")
 		)
 		(pin "12"
-			(uuid "1b8f5a87-764c-4429-818a-25870cf919e2")
+			(uuid "1b8f5a87-764c-4429-818a-25870cf919e3")
 		)
 		(pin "13"
-			(uuid "3fe6320f-06c8-4ec4-adb1-66c5cb1141c9")
+			(uuid "3fe6320f-06c8-4ec4-adb1-66c5cb1141ca")
 		)
 		(pin "5"
-			(uuid "0c32b939-7a55-4b86-994a-8b2e5efe909c")
+			(uuid "0c32b939-7a55-4b86-994a-8b2e5efe909d")
 		)
 		(pin "1"
-			(uuid "b30268a4-d950-4518-a993-aa641ab8639d")
+			(uuid "b30268a4-d950-4518-a993-aa641ab8639e")
 		)
 		(pin "6"
-			(uuid "72dca26f-56b1-4b66-8696-fc5f777d997e")
+			(uuid "72dca26f-56b1-4b66-8696-fc5f777d997f")
 		)
 		(pin "2"
-			(uuid "e4266767-a81a-4e9a-af34-0ffe62f58ccb")
+			(uuid "e4266767-a81a-4e9a-af34-0ffe62f58ccc")
 		)
 		(pin "4"
-			(uuid "d36084ce-dddd-407b-b314-a5c93d79af02")
+			(uuid "d36084ce-dddd-407b-b314-a5c93d79af03")
 		)
 		(pin "14"
-			(uuid "fc273e93-124f-4d62-82af-7b762aed6fca")
+			(uuid "fc273e93-124f-4d62-82af-7b762aed6fcb")
 		)
 		(pin "7"
-			(uuid "bae74473-e4a7-49e7-b5c6-f564fbef3ce6")
+			(uuid "bae74473-e4a7-49e7-b5c6-f564fbef3ce7")
 		)
 		(pin "9"
-			(uuid "5adb433b-1f1c-446c-b361-fe6c1b1caff4")
+			(uuid "5adb433b-1f1c-446c-b361-fe6c1b1caff5")
 		)
 		(instances
 			(project "4bit-computer"
@@ -8206,6 +8635,39 @@
 		)
 		(property "PART_NO" "~Herstellernummer"
 			(at 236.22 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at 236.22 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 236.22 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 236.22 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8347,6 +8809,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at 248.92 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 248.92 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 248.92 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "574f4a44-cdcc-4614-bf02-6a60fb8c8b6e")
 		)
@@ -8425,6 +8920,39 @@
 			)
 		)
 		(property "Description" "Quadruple 2-Line to 1-Line Multiplexer With 3-State Outputs"
+			(at 215.9 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at 215.9 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 215.9 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 215.9 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8557,47 +9085,80 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at 177.8 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 177.8 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 177.8 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
-			(uuid "f54c6625-21cb-460a-ad84-794943506acf")
+			(uuid "f54c6625-21cb-460a-ad84-794943506ad1")
 		)
 		(pin "10"
-			(uuid "d6cf1c8c-d3a2-468c-9732-cc40dc3f82db")
+			(uuid "d6cf1c8c-d3a2-468c-9732-cc40dc3f82dd")
 		)
 		(pin "3"
-			(uuid "fde33dc0-7801-473d-8814-d18674e5e2d4")
+			(uuid "fde33dc0-7801-473d-8814-d18674e5e2d6")
 		)
 		(pin "11"
-			(uuid "a6197b63-2b36-4050-a123-b9f5532af982")
+			(uuid "a6197b63-2b36-4050-a123-b9f5532af984")
 		)
 		(pin "12"
-			(uuid "1b8f5a87-764c-4429-818a-25870cf919e2")
+			(uuid "1b8f5a87-764c-4429-818a-25870cf919e4")
 		)
 		(pin "13"
-			(uuid "3fe6320f-06c8-4ec4-adb1-66c5cb1141c9")
+			(uuid "3fe6320f-06c8-4ec4-adb1-66c5cb1141cb")
 		)
 		(pin "5"
-			(uuid "0c32b939-7a55-4b86-994a-8b2e5efe909c")
+			(uuid "0c32b939-7a55-4b86-994a-8b2e5efe909e")
 		)
 		(pin "1"
-			(uuid "b30268a4-d950-4518-a993-aa641ab8639d")
+			(uuid "b30268a4-d950-4518-a993-aa641ab8639f")
 		)
 		(pin "6"
-			(uuid "72dca26f-56b1-4b66-8696-fc5f777d997e")
+			(uuid "72dca26f-56b1-4b66-8696-fc5f777d9980")
 		)
 		(pin "2"
-			(uuid "e4266767-a81a-4e9a-af34-0ffe62f58ccb")
+			(uuid "e4266767-a81a-4e9a-af34-0ffe62f58ccd")
 		)
 		(pin "4"
-			(uuid "d36084ce-dddd-407b-b314-a5c93d79af02")
+			(uuid "d36084ce-dddd-407b-b314-a5c93d79af04")
 		)
 		(pin "14"
-			(uuid "fc273e93-124f-4d62-82af-7b762aed6fca")
+			(uuid "fc273e93-124f-4d62-82af-7b762aed6fcc")
 		)
 		(pin "7"
-			(uuid "bae74473-e4a7-49e7-b5c6-f564fbef3ce6")
+			(uuid "bae74473-e4a7-49e7-b5c6-f564fbef3ce8")
 		)
 		(pin "9"
-			(uuid "5adb433b-1f1c-446c-b361-fe6c1b1caff4")
+			(uuid "5adb433b-1f1c-446c-b361-fe6c1b1caff6")
 		)
 		(instances
 			(project "4bit-computer"
@@ -8953,6 +9514,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at -31.75 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -31.75 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -31.75 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8bd7e830-ebb3-4d0a-bf12-5595aff11576")
 		)
@@ -9163,6 +9757,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at 248.92 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 248.92 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 248.92 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "78bc95b7-236f-4e35-a23b-e6fa3d29f231")
 		)
@@ -9294,6 +9921,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at -31.75 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -31.75 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -31.75 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f3d50d25-f038-4e0e-a8a8-169569caebb1")
 		)
@@ -9370,6 +10030,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 83.82 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at 83.82 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 83.82 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 83.82 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -9580,6 +10273,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at 139.7 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 139.7 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 139.7 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "a768fbdb-9416-4687-bbab-6afe7cd5f442")
 		)
@@ -9744,6 +10470,39 @@
 		)
 		(property "PART_NO" "~Herstellernummer"
 			(at -41.91 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at -41.91 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -41.91 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -41.91 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9962,6 +10721,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at -36.83 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -36.83 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -36.83 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1d351829-8132-4a03-994c-4b1314f67a93")
 		)
@@ -10037,6 +10829,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 83.82 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at 83.82 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 83.82 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 83.82 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -10371,6 +11196,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at 261.62 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 261.62 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 261.62 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2fd18a35-5fa6-4ea5-810e-e783cbc12768")
 		)
@@ -10448,6 +11306,39 @@
 		)
 		(property "Description" "Quadruple 2-Input NAND Gates"
 			(at 181.1348 86.0396 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at 177.8 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 177.8 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 177.8 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10618,6 +11509,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at -39.37 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -39.37 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -39.37 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "82bd0c7c-6dba-4b51-889c-24529819e5bd")
 		)
@@ -10741,6 +11665,39 @@
 		)
 		(property "PART_NO" "~Herstellernummer"
 			(at -31.75 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at -31.75 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -31.75 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -31.75 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10954,6 +11911,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at 261.62 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 261.62 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 261.62 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "33710a12-17f6-496e-8ade-96ea7dc87e1e")
 		)
@@ -11086,6 +12076,39 @@
 				)
 			)
 		)
+		(property "CATEGORY" ""
+			(at -12.7 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at -12.7 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at -12.7 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5ac70cb5-3285-4d62-b9a7-01f3a15bec3b")
 		)
@@ -11156,6 +12179,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 83.82 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CATEGORY" ""
+			(at 83.82 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PRICE_UNIT" ""
+			(at 83.82 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 83.82 116.84 0)
 			(hide yes)
 			(show_name no)

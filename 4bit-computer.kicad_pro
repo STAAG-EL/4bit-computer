@@ -770,7 +770,7 @@
           "show": true
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "Value",
           "name": "Value",
           "show": true
@@ -909,7 +909,7 @@
         "uuid": "1a564276-6752-45b4-a33a-f4bcbe787514"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D1-5,#PWR1-27,S1-2,C1-4,SW1-3,H1-7,N1,R1-21",
     "variants": []
   },
   "sheets": [
