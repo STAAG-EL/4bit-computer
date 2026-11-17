@@ -6582,7 +6582,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1961bbf0-ed4e-4110-b660-1c093996a759")
-		(property "Reference" "SW1"
+		(property "Reference" "S1"
 			(at -27.94 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6727,7 +6727,7 @@
 			)
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "SW1")
+					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -6823,7 +6823,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "282ba657-d9a0-49d0-8f5f-70f3872e3295")
-		(property "Reference" "SW2"
+		(property "Reference" "S2"
 			(at -63.5 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6921,7 +6921,7 @@
 		(instances
 			(project "4bit-computer"
 				(path "/1a564276-6752-45b4-a33a-f4bcbe787514/387adc13-9f78-49cb-9385-e5d888380c63"
-					(reference "SW2")
+					(reference "S2")
 					(unit 1)
 				)
 			)
