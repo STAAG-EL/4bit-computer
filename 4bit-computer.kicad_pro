@@ -533,6 +533,7 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
+        "tuning_profile": "",
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -551,6 +552,7 @@
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
+        "tuning_profile": "",
         "via_diameter": 0.7,
         "via_drill": 0.4,
         "wire_width": 6
@@ -569,6 +571,7 @@
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.0,
+        "tuning_profile": "",
         "via_diameter": 0.9,
         "via_drill": 0.4,
         "wire_width": 6
@@ -587,6 +590,7 @@
         "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
+        "tuning_profile": "",
         "via_diameter": 0.9,
         "via_drill": 0.5,
         "wire_width": 6
@@ -605,13 +609,14 @@
         "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
+        "tuning_profile": "",
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
       }
     ],
     "meta": {
-      "version": 4
+      "version": 5
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -905,7 +910,7 @@
         "uuid": "1a564276-6752-45b4-a33a-f4bcbe787514"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1-2,#PWR28-33",
     "variants": []
   },
   "sheets": [
